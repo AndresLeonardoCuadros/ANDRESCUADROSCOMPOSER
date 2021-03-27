@@ -1,0 +1,4 @@
+#./data/archivopropiedades.txt
+#Fri Mar 26 10:44:48 COT 2021
+estrofas=3
+frases=4
